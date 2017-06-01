@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+aaron:
+  first_name: aries
+  last_name: avery
+  username: barnett
+
+beck:
+  first_name: ben
+  last_name: bevis
+  username: carl
+
+carter:
+  first_name: clare
+  last_name:
+  username: conrad
+
+david:
+  first_name: don
+  last_name: bevis
+  username: carl
